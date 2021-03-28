@@ -1,4 +1,4 @@
-### Hi there 👋
+[![yongw-pur's github stats](https://github-readme-stats.vercel.app/api?username=Si3ver&show_icons=true&theme=radical)](https://github.com/yongw-pur/)
 
 <!--
 **yongw-pur/yongw-pur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
