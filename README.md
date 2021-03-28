@@ -1,5 +1,5 @@
-[![yongw-pur's github stats](https://github-readme-stats.vercel.app/api?username=yongw-pur&show_icons=true&theme=radical)](https://github.com/yongw-pur/)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yongw-pur&show_icons=true&line_height=30&hide=issues,contribs&hide_border=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yongw-pur&layout=compact&hide_border=true&hide_title=true)
 <!--
 **yongw-pur/yongw-pur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
